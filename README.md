@@ -2,7 +2,7 @@
 
 This project is a simple PHP application for submitting and displaying ideas (texts) using a MySQL database.
 
-![Screenshot](Screenshot_146.png)
+![Screenshot](./ScreenshotOfProject.png)
 
 ## Features
 
