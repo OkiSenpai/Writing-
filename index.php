@@ -1,5 +1,5 @@
 <?php
-require 'db.php';
+require 'dbProd.php';
 
 // Ako je forma poslata, ubacujemo u bazu
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
